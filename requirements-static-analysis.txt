@@ -1,0 +1,7 @@
+# Docs analysis
+docutils
+pygments
+
+# Code analysis
+flake8
+pylint
