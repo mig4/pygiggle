@@ -1,0 +1,4 @@
+[MESSAGES CONTROL]
+disable=
+    # PyCQA/pylint#289
+    bad-continuation
